@@ -1,0 +1,26 @@
+git branch -m master main
+git status
+git init
+git add appv1.py
+git init
+git add appv1.py
+git add info.md
+git add error.log
+git commit -m "first commit"
+git branch -m master main
+git branch feature1-shop
+git checkout feature1-shop
+git add appv1.py
+git commit -m "update"
+git checkout main
+git status
+git switch main
+git switch main
+git commit -m "change"
+git add appv1.py
+git commit -m "change"
+git merge feature1-shop
+git remote add origin https://github.com/X00226716-maggie/ex2-repo.git
+git branch -M main
+git push -u origin main
+git pull
