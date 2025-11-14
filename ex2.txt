@@ -24,3 +24,5 @@ git remote add origin https://github.com/X00226716-maggie/ex2-repo.git
 git branch -M main
 git push -u origin main
 git pull
+
+https://github.com/X00226716-maggie/ex2-repo
